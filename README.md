@@ -8,7 +8,7 @@ Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"
 
 Olá pessoal, Sivaldo aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Bora Pro Desafio!? Você Já Venceu
 
 ### Objetivos
 
@@ -18,15 +18,15 @@ Olá pessoal, Sivaldo aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo
 
 # Programador Brasileiro!
 
-## 📒 Descrição
+## Descrição
 
 Desenvolvido com o copilot, uma imagem criativa de um programdor Brasileiro, dando os seus primeiros passos na utilização das IA's generativas.
 
-## 🤖 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 copilot.microsoft.com
 
-## 🧐 Processo de Criação
+## Processo de Criação
 
 Utilizando o copilot com prompt em português que segue abaixo desenvolvi a imagem:
 
@@ -34,7 +34,7 @@ Crie uma imagem de "Um programador brasileiro branco, com olhos castanhos escuro
 
 <img src="Imagem/Brasileiro Programador.png"/>
 
-🏃‍♂️🏃‍♂️🏃‍♂️💻 Me segue lá nas minhas redes sociais
+💻 Me segue lá nas minhas redes sociais
 
 &nbsp;<b>Sivaldo Simões</b><br>&nbsp;
 <a href="https://github.com/Sivaldombi">GitHub</a>&nbsp;|&nbsp;
