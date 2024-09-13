@@ -14,9 +14,9 @@ Olá pessoal, Sivaldo aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso! No meu caso a criação de imagem foi com a IA do copilot da microsoft!
 
-   ### Template
+   ### Modelo
 
-# Programador Branco Brasileiro;
+# Programador Branco Brasileiro!
 
 ## 📒 Descrição
 
@@ -36,8 +36,7 @@ Crie uma imagem de "Um programador brasileiro branco, com olhos castanhos escuro
 
 🏃‍♂️🏃‍♂️🏃‍♂️💻 Me segue lá nas minhas redes sociais
 
- <p>Sivaldo Simões<br>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Sivaldombi">GitHub</a>&nbsp;|&nbsp; 
-    <a href="https://linkedin.com/in/s-simoesmbi/">LinkedIn</a>&nbsp;|&nbsp;
+&nbsp;<b>Sivaldo Simões</b><br>&nbsp;
+<a href="https://github.com/Sivaldombi">GitHub</a>&nbsp;|&nbsp;
+<a href="https://linkedin.com/in/s-simoesmbi/">LinkedIn</a>&nbsp;|&nbsp;
 <a href="https://www.instagram.com/sivmbi/">Instagram</a>&nbsp;|&nbsp;</p>
