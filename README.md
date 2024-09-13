@@ -38,11 +38,6 @@ Crie uma imagem de "Um programador brasileiro branco, com olhos castanhos escuro
 
  <p>Sivaldo Simões<br>
     &nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/Sivaldombi">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="linkedin.com/in/s-simoesmbi/
-">LinkedIn</a>
-&nbsp;|&nbsp;
-<a href="https://www.instagram.com/sivmbi/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    <a href="https://github.com/Sivaldombi">GitHub</a>&nbsp;|&nbsp; 
+    <a href="https://linkedin.com/in/s-simoesmbi/">LinkedIn</a>&nbsp;|&nbsp;
+<a href="https://www.instagram.com/sivmbi/">Instagram</a>&nbsp;|&nbsp;</p>
