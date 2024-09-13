@@ -16,7 +16,7 @@ Olá pessoal, Sivaldo aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo
 
    ### Modelo
 
-# Programador Branco Brasileiro!
+# Programador Brasileiro!
 
 ## 📒 Descrição
 
